@@ -1,0 +1,16 @@
+C:\Users\Алиса\source\repos\Лаб№13(События)\Лаб№13(События)\obj\Debug\net5.0\Лаб№13(События).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алиса\source\repos\Лаб№13(События)\Лаб№13(События)\obj\Debug\net5.0\Лаб№13(События).AssemblyInfoInputs.cache
+C:\Users\Алиса\source\repos\Лаб№13(События)\Лаб№13(События)\obj\Debug\net5.0\Лаб№13(События).AssemblyInfo.cs
+C:\Users\Алиса\source\repos\Лаб№13(События)\Лаб№13(События)\obj\Debug\net5.0\Лаб№13(События).csproj.CoreCompileInputs.cache
+C:\Users\Алиса\source\repos\Лаб№13(События)\Лаб№13(События)\bin\Debug\net5.0\Лаб№13(События).exe
+C:\Users\Алиса\source\repos\Лаб№13(События)\Лаб№13(События)\bin\Debug\net5.0\Лаб№13(События).deps.json
+C:\Users\Алиса\source\repos\Лаб№13(События)\Лаб№13(События)\bin\Debug\net5.0\Лаб№13(События).runtimeconfig.json
+C:\Users\Алиса\source\repos\Лаб№13(События)\Лаб№13(События)\bin\Debug\net5.0\Лаб№13(События).runtimeconfig.dev.json
+C:\Users\Алиса\source\repos\Лаб№13(События)\Лаб№13(События)\bin\Debug\net5.0\Лаб№13(События).dll
+C:\Users\Алиса\source\repos\Лаб№13(События)\Лаб№13(События)\bin\Debug\net5.0\ref\Лаб№13(События).dll
+C:\Users\Алиса\source\repos\Лаб№13(События)\Лаб№13(События)\bin\Debug\net5.0\Лаб№13(События).pdb
+C:\Users\Алиса\source\repos\Лаб№13(События)\Лаб№13(События)\obj\Debug\net5.0\Лаб№13(События).dll
+C:\Users\Алиса\source\repos\Лаб№13(События)\Лаб№13(События)\obj\Debug\net5.0\ref\Лаб№13(События).dll
+C:\Users\Алиса\source\repos\Лаб№13(События)\Лаб№13(События)\obj\Debug\net5.0\Лаб№13(События).pdb
+C:\Users\Алиса\source\repos\Лаб№13(События)\Лаб№13(События)\obj\Debug\net5.0\Лаб№13(События).genruntimeconfig.cache
+C:\Users\Алиса\source\repos\Лаб№13(События)\Лаб№13(События)\obj\Debug\net5.0\Лаб№13(События).csproj.AssemblyReference.cache
